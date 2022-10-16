@@ -1,0 +1,23 @@
+body {
+  background-image: url("../../assets/images/2110.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 744.5px;
+  padding: 0px;
+  margin-top: 10px;
+  margin-right: 0px;
+  color: aliceblue;
+}
+.w3{
+  margin-top: 100;
+}
+.imag
+{
+  width: 700px;
+  margin-top: 70px;
+  height: 400px;
+}
+.mycont{
+  padding-top: 100px;
+}
